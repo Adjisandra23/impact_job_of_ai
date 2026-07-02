@@ -12,7 +12,7 @@
 
 ---
 
-## 📋 Daftar Isi
+## Daftar Isi
 
 - [Tentang Dataset](#-tentang-dataset)
 - [Tujuan Analisis](#-tujuan-analisis)
@@ -36,7 +36,7 @@
 
 ---
 
-## 📦 Tentang Dataset
+## Tentang Dataset
 
 | Atribut | Detail |
 |---|---|
@@ -109,7 +109,7 @@ ai-impact-jobs-2030/
 
 ---
 
-## 🛠 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Library | Versi | Kegunaan |
 |---|---|---|
